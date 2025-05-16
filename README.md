@@ -26,14 +26,12 @@ This project focuses on familiarization with C/C++, the OpenCV library, and imag
 
 ### Compilation
 - If using a Makefile: `make`
-- If using an IDE: [Briefly describe build process, e.g., "Build project using XCode's build command."]
 
 ### Execution
 - **Image Display:** `./bin/imgDisplay path/to/your/image.jpg`
 - **Video Special Effects:** `./bin/vidDisplay`
 
 ### Key Bindings for `vidDisplay`
-*(List the keys you've implemented as per the assignment tasks)*
 - **q:** Quit the program.
 - **s:** Save the current frame to an image file (e.g., `saved_frame.png`).
 - **g:** Toggle OpenCV's standard greyscale filter.
